@@ -1,0 +1,24 @@
+_repo: Der-Musterknabe-Ein-Roman-aus-den-Masuren_68512
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Skowronnek, Fritz
+    gutenberg_agent_id: '54807'
+    url: http://www.gutenberg.org/2009/agents/54807
+description: ''
+gutenberg_issued: '2022-07-12'
+identifiers:
+  gutenberg: '68512'
+language: de
+pgterms:marc905: 20191120085720skowronnek
+pgterms:marc906: '1924'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Otto Janke,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Der Musterknabe: Ein Roman aus den Masuren'
+url: http://www.gutenberg.org/ebooks/68512
